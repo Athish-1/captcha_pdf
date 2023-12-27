@@ -1,9 +1,5 @@
 # Crash Report Scraper
 
-## Overview
-
-This Python script automates the retrieval of crash reports from the Chicago Police Department's Driver Information Exchange website. It utilizes Selenium for web automation, TwoCaptcha for solving reCAPTCHA challenges, and pdfkit for converting HTML to PDF.
-
 ## Prerequisites
 
 Before running the script, make sure you have the following installed:
