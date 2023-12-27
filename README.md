@@ -5,7 +5,7 @@
 Before running the script, make sure you have the following installed:
 
 - [Python](https://www.python.org/downloads/)
-- [wkhtmltopdf](https://wkhtmltopdf.org/downloads.html) - Download the latest version and place the executable (`wkhtmltopdf.exe`) in the `wkhtmltopdf/bin` directory.
+- [wkhtmltopdf](https://wkhtmltopdf.org/downloads.html) - Download the latest version and make sure the (`wkhtmltopdf.exe`) is in the `wkhtmltopdf/bin` directory.
 
 ## 2Captcha API Key
 
@@ -46,7 +46,7 @@ To use the script, you'll need a 2Captcha API key. Follow these steps:
 ## Notes
 
 - The PDF and HTML files of the crash report will be saved in the same directory as the script.
-- Ensure that the `wkhtmltopdf.exe` executable is in the `wkhtmltopdf/bin` directory.
+- Ensure that the `wkhtmltopdf.exe` executable is in the same directory as main.py.
 - Make sure you have an active internet connection as the script interacts with an online service for solving reCAPTCHA challenges.
 
 Feel free to reach out if you encounter any issues or have questions.
